@@ -1,4 +1,5 @@
-# Auto Parts Case
+# Auto Parts Case![preview (1)](https://github.com/user-attachments/assets/4662b29c-908f-44bb-a82a-bc5660c0046d)
+
 
 Este proyecto, titulado **"Auto Parts Case"**, fue desarrollado como parte de mi preparación para una entrevista técnica para el puesto de Consultor de Datos Builder Junior en Information Workers S.A.S. El objetivo principal es demostrar habilidades en el manejo de datos, integración de diversas fuentes de información y análisis interactivo, resolviendo una problemática clave identificada en una empresa de autopartes.
 
